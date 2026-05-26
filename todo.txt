@@ -1,0 +1,50 @@
+TODO — Arpys Motor Parts and Accessories Landing Page
+Generated: 2026-05-26
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Fill in phone number in Contact section (line ~323)
+[ ] Set real phone in JSON-LD (line ~447)
+[ ] Set real email in JSON-LD (line ~448)
+[ ] Set real zip code in JSON-LD (line ~454)
+[ ] Set real review count in JSON-LD (line ~468)
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Products section: fill in real products and prices (lines ~197-243)
+[ ] Reviews section: add 3 real review excerpts (lines ~260-276)
+
+IMAGES (files to source and drop into images/)
+-----------------------------------------------
+[ ] images/hero.jpg — downloaded from Unsplash (motorcycle helmet)
+[ ] images/about.jpg — downloaded from Unsplash (motorcycle parts)
+[ ] images/gallery/01.jpg through 06.jpg — downloaded from Unsplash (motorcycle-related images)
+
+SEO (complete before going live)
+---------------------------------
+[ ] Confirm og:locale matches target market (currently en_PH)
+[ ] Submit sitemap.xml to Google Search Console after deploy
+[ ] Validate JSON-LD at https://search.google.com/test/rich-results
+
+ALL DONE ✓ (no action needed)
+------------------------------
+[ ] Project folder structure created
+[ ] index.html with full landing page structure
+[ ] Tailwind CSS configured via CDN
+[ ] Google Fonts integrated
+[ ] Preview banner included
+[ ] Navigation with smooth scroll
+[ ] Hero section with gradient overlay
+[ ] About section with stats
+[ ] Products section with tab switching
+[ ] Gallery section with 6 images
+[ ] Reviews section with placeholder cards
+[ ] Contact section with Google Maps embed
+[ ] Footer with social links
+[ ] JSON-LD structured data
+[ ] Responsive design implemented
+[ ] Mobile-friendly navigation
+[ ] Address included: Blk 24 Lot 12 A. Bonifacio St. Phase 1 Cherry Homes Mambog 1 Bacoor
+[ ] Hours included: 08:00 - 22:00 (Daily)
+[ ] Rating included: 100% recommend
