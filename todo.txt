@@ -1,0 +1,40 @@
+TODO — Arpys Motorparts and Accessories Landing Page
+Generated: 2026-06-02
+========================================
+
+CRITICAL (blocks launch)
+------------------------
+[ ] Replace phone number in Contact section (line ~435)
+[ ] Replace email in Contact section (line ~440)
+[ ] Set real domain in og:image, canonical, and JSON-LD URLs
+
+CONTENT (needs real copy or data)
+----------------------------------
+[ ] Reviews section: placeholder reviews — add real customer reviews from Facebook
+[ ] Google Maps embed: update with correct place ID and business coordinates
+
+IMAGES (files to source and drop into images/)
+-----------------------------------------------
+[ ] images/hero.jpg — downloaded from Unsplash (motorcycle parts theme)
+[ ] images/about.jpg — downloaded from Unsplash (motorcycle shop interior)
+[ ] images/gallery/01.jpg through 06.jpg — downloaded from Unsplash (motorcycle parts and accessories)
+
+SEO (complete before going live)
+---------------------------------
+[ ] Confirm og:locale matches target market (en_PH)
+[ ] Submit sitemap.xml to Google Search Console after deploy
+[ ] Validate JSON-LD at https://search.google.com/test/rich-results
+
+ALL DONE ✓ (no action needed)
+------------------------------
+[ ] Navigation bar created with mobile menu
+[ ] Hero section with gradient overlay
+[ ] Services section with 6 service cards
+[ ] Gallery section with 6 images
+[ ] Reviews section with 3 placeholder reviews
+[ ] Contact section with Google Maps embed
+[ ] Footer with quick links and contact info
+[ ] Preview banner with close button
+[ ] Smooth scroll for anchor links
+[ ] Mobile responsive design
+[ ] Address and hours populated from Facebook/Waze
